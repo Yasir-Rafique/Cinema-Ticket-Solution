@@ -1,0 +1,15 @@
+{
+  "name": "cinema-tickets-javascript",
+  "description": "This is a coding exercise which will allow you to demonstrate how you code and your approach to a given problem.",
+  "version": "1.0.1",
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
