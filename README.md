@@ -7,11 +7,11 @@ The solution includes a cinema ticket booking service with the capability to han
    git clone https://github.com/your-username/repo-name.git
    cd repo-name
 
-Install dependencies:
-npm install
+2. Install dependencies:
+   npm install
 
-Run the Jest test suite to verify the working of the solution:
-npm jest
+3. Run the Jest test suite to verify the working of the solution:
+   npm jest
 
 ## **NOTE**:
 In the just test file test/TicketServeTest.test.js
