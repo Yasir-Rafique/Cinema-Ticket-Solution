@@ -14,7 +14,7 @@ The solution includes a cinema ticket booking service with the capability to han
    npm jest
 
 ## **NOTE**:
-In the just test file test/TicketServeTest.test.js
+In the jest test file test/TicketServeTest.test.js
 I have already defined 13 test cases which I believe are the important one.
 Please feel free to edit existing test cases and add new of your own choice.
 
