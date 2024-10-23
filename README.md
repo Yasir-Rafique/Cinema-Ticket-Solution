@@ -17,3 +17,6 @@ The solution includes a cinema ticket booking service with the capability to han
 In the just test file test/TicketServeTest.test.js
 I have already defined 13 test cases which I believe are the important one.
 Please feel free to edit existing test cases and add new of your own choice.
+
+Initially, I designed a basic flow of the solution with the help of class diagram.
+which is also uploaded along with the repo. 
